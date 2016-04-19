@@ -1,0 +1,81 @@
+/*CSS for contacts page.*/
+.header h1 {
+	font-family: Oswald;
+	margin-left: 440px;
+	margin-top: 110px;
+	color: #9cb295;
+
+
+}
+/*Navigation Bar*/
+.nav {
+	display: inline-block;
+	font-family: Oswald;
+	background-color: none;
+
+
+}
+a:first-child {
+
+	margin-left: 50px;
+	margin-top: -10px;
+
+}
+a:nth-child(2) {
+
+	margin-left: 580px;
+	margin-top: -10px;
+}
+a:nth-child(3) {
+
+	margin-left: 1200px;
+	margin-top: -10px;
+}
+/*Jumbotron section*/
+.jumbotron img {
+
+}
+a {
+	text-decoration: none;
+	color: #9cb295;
+	position: fixed;
+}
+a:hover {
+	font-weight: bolder;
+	color: #1e1e1e;
+
+}
+ul {
+	text-decoration: none;
+}
+
+p {
+	font-family: Lora;
+	color: #9cb295;
+	margin-left: 405px;
+	position: relative;
+
+}
+html {
+	background: url("/home/wilderbear/Desktop/Web Projects/Website/IMG/Web Images/photo-1442473483905-95eb436675f1.jpg")
+	background-size: inherit;
+	
+}
+span {
+	color: #00bcd4;
+}
+.olde	{
+	font-size: 30px;
+	font-family: Playfair;
+	color: red;
+	font-weight: bolder;
+}
+em {
+	font-family: Playfair;
+}
+.contacts {
+	margin: 280px;
+	display: inline-block;
+	font-family: Playfair;
+	text-decoration: none;
+}

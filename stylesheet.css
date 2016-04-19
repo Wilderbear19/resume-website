@@ -1,0 +1,85 @@
+/*Main css for all pages on site*/
+.header h1 {
+	font-family: Oswald;
+	margin-left: 500px;
+	margin-top: 30px;
+	color: #9cb295;
+	position: relative;
+
+
+}
+/*Navigation Bar*/
+.nav {
+	display: inline-block;
+	font-family: Oswald;
+	background-color: none;
+
+
+}
+a:first-child {
+
+	margin-left: 50px;
+	margin-top: -10px;
+
+}
+a:nth-child(2) {
+
+	margin-left: 580px;
+	margin-top: -10px;
+}
+a:nth-child(3) {
+
+	margin-left: 1200px;
+	margin-top: -10px;
+}
+/*Jumbotron section*/
+
+
+a {
+	text-decoration: none;
+	color: #9cb295;
+	position: fixed;
+}
+a:hover {
+	font-weight: bolder;
+	color: #1e1e1e;
+
+
+}
+ul {
+	text-decoration: none;
+}
+.header h1:hover {
+	background-color: none;
+}
+p {
+	font-family: Lora;
+	color: #9cb295;
+	margin-left: 405px;
+	position: relative;
+
+}
+html {
+	
+}
+span {
+	color: #00bcd4;
+}
+.olde	{
+	font-size: 30px;
+	font-family: Playfair;
+	color: red;
+	font-weight: bolder;
+	text-shadow: 3px solid #ffffff;
+}
+em {
+	font-family: Playfair;
+}
+.contacts {
+	margin: 280px;
+	display: inline-block;
+}
+a h1 {
+	margin-left: 500px;
+	background-color: none;
+}
